@@ -1,16 +1,4 @@
 # cafin
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/89311783/212231738-e5f773ee-f687-4476-b848-9336a7ac8756.jpg" width=250> <img src="https://user-images.githubusercontent.com/89311783/212231782-d24b2862-9cce-453d-90a6-d8a7b159ff36.jpg" width=250> <img src="https://user-images.githubusercontent.com/89311783/212231820-7be69fd5-5a07-496d-8334-5accadd636f5.jpg" width=250>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
